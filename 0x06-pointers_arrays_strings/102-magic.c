@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - prins new line of code
+ * Return: Always 0;
+ */
+
 int main(void)
 {
 int n;
